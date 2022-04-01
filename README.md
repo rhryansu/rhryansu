@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @rhryansu
 - 👀 I’m interested in Cloud Computing
 - 🌱 I’m currently learning React.js
-- 💞️ I’m looking to collaborate on SSM
+- 💞️ I’m looking to collaborate on Web Full Stack Development
 - 📫 How to reach me rh.ryan.su@gmail.com
 
 <!---
