@@ -1,6 +1,5 @@
 - 👋 Hi, I’m @rhryansu
-- 👀 I’m interested in Cloud Computing
-- 🌱 I’m currently learning React.js and AWS
+- 👀 I’m interested in cross-platform applications
 - 💞️ I’m looking to collaborate on Full Stack Development
 - 📫 How to reach me rh.ryan.su@gmail.com
 
